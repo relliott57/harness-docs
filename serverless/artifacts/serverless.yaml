@@ -12,6 +12,4 @@ functions:
           path: /tello
           method: get  
 package:
-  artifact: <+artifact.path>          
-plugins:
-  - serverless-deployment-bucket@latest
+  artifact: <+artifact.path>
