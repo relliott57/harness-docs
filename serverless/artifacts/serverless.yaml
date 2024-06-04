@@ -1,4 +1,4 @@
-service: <+pipeline.stages.Deploy_Service.spec.service.name>
+service: hellorobin
 frameworkVersion: '2 || 3'
 
 provider:
