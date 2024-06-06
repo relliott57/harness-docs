@@ -1,4 +1,4 @@
-service: hellorobin
+service: zebra-hello
 frameworkVersion: '2 || 3'
 
 provider:
